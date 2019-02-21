@@ -1,0 +1,555 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	.nav_account_btn {
+		width: 50%;
+		text-align: center;
+	}
+	.banner {
+		padding: 20px 0;
+	}
+	.banner_text {
+		margin: 20px auto;
+	}
+	.banner_text h1 {
+		font-size: 30px;
+	}
+	.banner_text p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.start_btn {
+		padding: 5px 10px;
+		font-size: 14px;
+	}
+	.benefit {
+		padding: 50px 0;
+	}
+	.common_title h1 {
+		font-size: 25px;
+	}
+	.common_title p {
+		font-size: 14px;
+		width: 100%;
+	}
+	.benefit_contents {
+		padding: 10px;
+		margin: 10px auto;
+	}
+	.benefit_contents i {
+		font-size: 40px;
+	}
+	.benefit_contents h2 {
+		font-size: 16px;
+		padding: 0;
+	}
+	.benefit_contents p {
+		width: 90%;
+		font-size: 14px;
+	}
+	.supercharge {
+		padding: 30px 0;
+	}
+	.supercharge_content {
+		padding: 10px;
+		margin: 0px auto;
+	}
+	.supercharge_content i {
+		font-size: 40px;
+	}
+	.supercharge_content h2 {
+		font-size: 14px;
+	}
+	.automated {
+		padding: 30px 0;
+	}
+	.automated_contents {
+		padding: 30px 15px;
+		margin: 10px auto;
+		margin-bottom: 0;
+	}
+	.automated_contents i {
+		margin-left: 10px;
+	}
+	.automated_contents h2 {
+		font-size: 16px;
+		margin-left: 10px;
+	}
+	.automated_contents p {
+		width: 100%;
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.schedule {
+		padding: 30px 0;
+	}
+	.active {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.schedule_content {
+		padding: 5px;
+		margin: 0;
+	}
+	.schedule_content i {
+		margin-left: 0px;
+		font-size: 40px;
+		margin-bottom: 5px;
+	}
+	.schedule_content h2 {
+		font-size: 16px;
+		margin-left: 0px;
+	}
+	.schedule_content p {
+		font-size: 14px;
+		margin-left: 0;
+		margin-bottom: 5px;
+	}
+	.schedule_image {
+		margin-top: 20px;
+	}
+	.targeting {
+		padding: 40px 0;
+	}
+	.target_content {
+		margin-bottom: 40px;
+	}
+	.target_content h1 {
+		font-size: 22px;
+		margin-top: 30px;
+	}
+	.target_content p {
+		font-size: 14px;
+	}
+	.targeting_options {
+		padding: 10px 0;
+		padding-top: 20px;
+	}
+	.targeting_options i {
+		font-size: 30px;
+	}
+	.targeting_options h2 {
+		font-size: 14px;
+	}
+	.trynow_btn {
+		padding: 7px 15px;
+	}
+	.service {
+		padding: 30px 0;
+	}
+	.service_contents {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.service_contents i {
+		font-size: 40px;
+	}
+	.signup {
+		padding: 30px 0;
+	}
+	.signup_content h1 {
+		font-size: 20px;
+	}
+	.signup_content p {
+		font-size: 14px;
+	}
+	.signup_btn {
+		font-size: 14px;
+		padding: 15px 30px;
+		border-radius: 25px;
+	}
+	.testimonial {
+		padding: 30px 0;
+	}
+	.testimonial_content h1 {
+		font-size: 20px;
+		margin-top: 30px;
+		margin-bottom: 50px;
+	}
+	.testimonial_content p {
+		font-size: 14px;
+	}
+	.testimonial_box {
+		padding: 5px;
+		margin-top: 30px;
+	}
+	.testi_btn {
+		padding: 5px 15px;
+	}
+	footer {
+		padding: 30px 0;
+		font-size: 14px;
+	}
+	footer hr {
+		margin-top: 30px;
+	}
+	.footer_right_widget h4 {
+		font-size: 20px;
+		margin-top: 20px;
+	}
+	.footer_right_widget ul li a {
+		font-size: 14px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.nav_account_btn {
+		width: 30%;
+		text-align: center;
+	}
+	.banner_text {
+		margin: 20px auto;
+	}
+	.banner_text h1 {
+		font-size: 30px;
+	}
+	.banner_text p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.start_btn {
+		padding: 7px 15px;
+		border-radius: 20px;
+	}
+	.benefit {
+		padding: 50px 0;
+	}
+	.common_title h1 {
+		font-size: 30px;
+	}
+	.common_title p {
+		font-size: 14px;
+		width: 100%;
+	}
+	.benefit_contents {
+		padding: 10px;
+		margin: 10px auto;
+	}
+	.benefit_contents i {
+		font-size: 40px;
+	}
+	.benefit_contents h2 {
+		font-size: 16px;
+		padding: 0;
+	}
+	.benefit_contents p {
+		width: 60%;
+		font-size: 14px;
+	}
+	.supercharge {
+		padding: 50px 0;
+	}
+	.supercharge_content {
+		padding: 10px;
+		margin: 0px auto;
+	}
+	.supercharge_content i {
+		font-size: 50px;
+	}
+	.supercharge_content h2 {
+		font-size: 16px;
+	}
+	.automated {
+		padding: 50px 0;
+	}
+	.automated_contents {
+		padding: 30px 15px;
+		margin: 20px auto;
+		margin-bottom: 0;
+	}
+	.automated_contents h2 {
+		font-size: 16px;
+		margin-left: 10px;
+	}
+	.automated_contents p {
+		width: 100%;
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.schedule {
+		padding: 40px 0;
+	}
+	.active {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.schedule_content {
+		padding: 5px;
+		margin: 0;
+	}
+	.schedule_content i {
+		margin-left: 0px;
+		font-size: 50px;
+		margin-bottom: 10px;
+	}
+	.schedule_content h2 {
+		font-size: 16px;
+		margin-left: 0;
+	}
+	.schedule_content p {
+		font-size: 14px;
+		margin-left: 0;
+		margin-bottom: 10px;
+	}
+	.schedule_image {
+		margin-top: 50px;
+	}
+	.targeting {
+		padding: 40px 0;
+	}
+	.target_content {
+		margin-bottom: 40px;
+	}
+	.target_content h1 {
+		font-size: 22px;
+		margin-top: 30px;
+	}
+	.target_content p {
+		font-size: 14px;
+	}
+	.targeting_options {
+		padding: 10px 0;
+		padding-top: 20px;
+	}
+	.targeting_options i {
+		font-size: 30px;
+	}
+	.targeting_options h2 {
+		font-size: 14px;
+	}
+	.trynow_btn {
+		padding: 7px 15px;
+	}
+	.service {
+		padding: 40px 0;
+	}
+	.service_contents {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.service_contents i {
+		font-size: 40px;
+	}
+	.signup {
+		padding: 40px 0;
+	}
+	.signup_content h1 {
+		font-size: 20px;
+	}
+	.signup_content p {
+		font-size: 14px;
+	}
+	.signup_btn {
+		font-size: 14px;
+		padding: 15px 30px;
+		border-radius: 25px;
+	}
+	.testimonial {
+		padding: 40px 0;
+	}
+	.testimonial_content h1 {
+		font-size: 22px;
+		margin-top: 30px;
+		margin-bottom: 50px;
+	}
+	.testimonial_content p {
+		font-size: 14px;
+	}
+	.testimonial_box {
+		padding: 5px;
+	}
+	.testi_btn {
+		padding: 7px 15px;
+	}
+	footer {
+		padding: 40px 0;
+		font-size: 14px;
+	}
+	footer hr {
+		margin-top: 30px;
+	}
+	.footer_right_widget h4 {
+		font-size: 20px;
+		margin-top: 20px;
+	}
+	.footer_right_widget ul li a {
+		font-size: 14px;
+	}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.nav_account_btn {
+		width: 20%;
+		text-align: center;
+	}
+	.banner_text {
+		margin: 0 auto;
+	}
+	.banner_text h1 {
+		font-size: 30px;
+	}
+	.banner_text p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.start_btn {
+		padding: 7px 15px;
+		border-radius: 20px;
+	}
+	.benefit {
+		padding: 50px 0;
+	}
+	.common_title h1 {
+		font-size: 30px;
+	}
+	.common_title p {
+		font-size: 14px;
+		width: 75%;
+	}
+	.benefit_contents {
+		padding: 10px;
+		margin: 20px auto;
+	}
+	.benefit_contents i {
+		font-size: 40px;
+	}
+	.benefit_contents h2 {
+		font-size: 16px;
+		font-weight: 400;
+		padding: 0;
+	}
+	.benefit_contents p {
+		width: 100%;
+		font-size: 14px;
+	}
+	.supercharge {
+		padding: 50px 0;
+	}
+	.supercharge_content {
+		padding: 10px;
+	}
+	.supercharge_content i {
+		font-size: 35px;
+	}
+	.supercharge_content h2 {
+		font-size: 14px;
+	}
+	.automated {
+		padding: 50px 0;
+	}
+	.automated_contents {
+		padding: 30px 15px;
+		margin: 0 auto;
+		margin-bottom: 0;
+	}
+	.automated_contents h2 {
+		font-size: 16px;
+		margin-left: 10px;
+	}
+	.automated_contents p {
+		width: 100%;
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.schedule {
+		padding: 50px 0;
+	}
+	.schedule_content {
+		padding: 10px;
+		margin: 10px 0;
+	}
+	.schedule_content i {
+		margin-left: 10px;
+		font-size: 50px;
+	}
+	.schedule_content h2 {
+		font-size: 16px;
+		margin-left: 10px;
+	}
+	.schedule_content p {
+		font-size: 14px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+	}
+	.targeting {
+		padding: 50px 0;
+	}
+	.target_content h1 {
+		font-size: 22px;
+		margin-top: 30px;
+	}
+	.target_content p {
+		font-size: 14px;
+	}
+	.targeting_options {
+		padding: 10px;
+	}
+	.targeting_options i {
+		font-size: 30px;
+	}
+	.targeting_options h2 {
+		font-size: 14px;
+	}
+	.trynow_btn {
+		padding: 7px 15px;
+	}
+	.service {
+		padding: 50px 0;
+	}
+	.service_contents i {
+		font-size: 40px;
+	}
+	.signup {
+		padding: 50px 0;
+	}
+	.signup_content p {
+		font-size: 14px;
+	}
+	.signup_btn {
+		font-size: 14px;
+		padding: 15px 30px;
+		border-radius: 25px;
+	}
+	.testimonial {
+		padding: 50px 0;
+	}
+	.testimonial_content h1 {
+		font-size: 22px;
+		margin-top: 50px;
+	}
+	.testimonial_content p {
+		font-size: 14px;
+	}
+	.testimonial_box {
+		padding: 5px;
+	}
+	.testi_btn {
+		padding: 7px 15px;
+	}
+	footer {
+		padding: 50px 0;
+		font-size: 14px;
+	}
+	footer hr {
+		margin-top: 30px;
+	}
+	.footer_right_widget h4 {
+		font-size: 20px;
+	}
+	.footer_right_widget ul li a {
+		font-size: 14px;
+	}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.signup_content h1 {
+		font-size: 20px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
